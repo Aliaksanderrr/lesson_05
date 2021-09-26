@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesson_05</string>
+    <string name="main_activity_hint_for_num_1">num1</string>
+    <string name="main_activity_hint_for_num_2">num2</string>
+    <string name="main_activity_text_for_button">amount</string>
+    <string name="exception_toast_message">Lack of arguments</string>
+</resources>
